@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZixuanGao23206703/Emotion-Image-Recogonition/main/logo.jpg" alt="Logo" width="90" height="100">
+  <img src="https://github.com/ZixuanGao23206703/Emotion-Image-Recognition/blob/main/logo.png" alt="Logo" width="90" height="100">
 </div>
 
 # Emotion Image Recognition using CNN Method
@@ -18,7 +18,7 @@
 ![OpenCV](https://img.shields.io/badge/opencv--python-v4.8.0.74%2B-critical.svg)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ZixuanGao23206703/Emotion-Image-Recogonition/main/facetest.gif" alt="Animation" width="300">
+  <img src="https://github.com/ZixuanGao23206703/Emotion-Image-Recognition/blob/main/facetest.gif" alt="Animation" width="300">
 </div>
 
 
