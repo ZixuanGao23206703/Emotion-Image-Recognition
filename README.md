@@ -2,7 +2,7 @@
   <img src="https://github.com/ZixuanGao23206703/Emotion-Image-Recognition/blob/main/logo.png" alt="Logo" width="90" height="100">
 </div>
 
-# Emotion Image Recognition using CNN Method
+# Emotion Image Recognition using CNN Method(Practice)
 </center>
 
 ![Python](https://img.shields.io/badge/python-v3.11.4+-blue.svg)
@@ -65,7 +65,7 @@ git clone https://github.com/ZixuanGao23206703/Emotion-Image-Recognition.git
 
 ## :eyes:  Model Overview
 - **Architecture**: The CNN model consists of three convolutional blocks with batch normalization, max pooling, and dropout layers, followed by fully connected layers.
-- **Evaluation**: The model achieved an overall accuracy of 68.24% on the test set.
+- **Evaluation**: The model achieved an overall accuracy of 56.58% on the test set.
 
 ## :page_with_curl: License
 This project is licensed under the MIT License - see the LICENSE file for details.
